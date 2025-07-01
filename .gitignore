@@ -4,3 +4,4 @@
 *.scss.map
 
 .vscode/
+react/contador-simple/node_modules
