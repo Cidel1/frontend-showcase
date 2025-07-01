@@ -32,7 +32,6 @@ nvm use 20.19.3
 ```
 ### 3. Run an Example (e.g., React)
 Each project will have its own `README.md` inside the folder. But as a generic example:
-```
 ```bash
 cd react/contador-simple
 npm install
